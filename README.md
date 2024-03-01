@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Develop iOS Mobile Apps and Hybrid apps.
 - 💻 I’m currently working with iOS and Reace Native development.
-- 🌱 I’m currently learning React Native and Flutter.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on app development and architecture design.
 - 📫 How to reach me? - @ = pankajpatel.bhalala@gmail.com
 
